@@ -1,0 +1,96 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-bpx;
+}
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+body{
+  color:#D90166;
+  background-color:lavender;
+  background-image:url("https://wallpapercave.com/wp/wp7809890.png");
+  font-family: "Syncopate", sans-serif;
+}
+h1, p{
+  background-color:lavender;
+  font-family:"Rum Raisin", sans-serif;
+}
+
+.creatorsList{
+  margin-top:1em;
+  display: flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  gap: 20px;
+  
+}
+
+#navBar{
+  display:flex;
+  flex-direction:row;
+  background-color:#D90166;
+  overflow: hidden;
+  position:fixed;
+  gap:5px;
+  top:0;
+  left:0;
+  width:100%;  
+  height:50px
+}
+.navItem{
+  background-color:lavender;
+  color:blue;
+  margin-left:5px;
+  padding:1px;
+  min-width:100px;
+  font-family: "Syncopate", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.makeCreator{
+  background-color:lavender;
+}
+
+button{
+  background-color:#D90166;
+}
