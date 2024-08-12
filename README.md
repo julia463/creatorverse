@@ -35,7 +35,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<iframe src='https://imgur.com/a/vn5aztQ' title='Video Walkthrough' width='500' height='500' alt='Video Walkthrough'> </iframe>
+👉🏿<img src='https://imgur.com/a/vn5aztQ' title='Video Walkthrough' width='500' height='500' alt='Video Walkthrough'/>
+
+Link to video if it doesn't work!
+'https://imgur.com/a/vn5aztQ
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif 👉🏿 GIF tool here
@@ -47,6 +50,8 @@ GIF created with ScreenToGif 👉🏿 GIF tool here
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
+
+I struggled with showing all of the creators,and editing the style, especially the nav bar. 
 
 ## License
 
