@@ -35,8 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://imgur.com/a/vn5aztQ' title='Video Walkthrough' width='500' height='500' alt='Video Walkthrough'/>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vn5aztQ"  ><a href="//imgur.com/a/vn5aztQ">web 103 preworkk</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+👉🏿<img src='https://i.imgur.com/x2dhwzG.mp4' title='Video Walkthrough' width='500' height='500' alt='Video Walkthrough'/>
 
 Link to video if it doesn't work!
 'https://imgur.com/a/vn5aztQ
